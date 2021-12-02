@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToKhaiYTe", "ToKhaiYTe.csproj", "{1967FE60-A76B-4512-B804-88C28ED14C0F}"
+EndProject
+Project("{840C416C-B8F3-42BC-B0DD-F6BB14C9F8CB}") = "Medical Declaration", "..\Medical Declaration\Medical Declaration.aiproj", "{3262967E-41ED-4D33-A0C5-BB99D8D35162}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		All|Any CPU = All|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1967FE60-A76B-4512-B804-88C28ED14C0F}.All|Any CPU.ActiveCfg = Release|Any CPU
+		{1967FE60-A76B-4512-B804-88C28ED14C0F}.All|Any CPU.Build.0 = Release|Any CPU
+		{1967FE60-A76B-4512-B804-88C28ED14C0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1967FE60-A76B-4512-B804-88C28ED14C0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1967FE60-A76B-4512-B804-88C28ED14C0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1967FE60-A76B-4512-B804-88C28ED14C0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3262967E-41ED-4D33-A0C5-BB99D8D35162}.All|Any CPU.ActiveCfg = DefaultBuild
+		{3262967E-41ED-4D33-A0C5-BB99D8D35162}.Debug|Any CPU.ActiveCfg = DefaultBuild
+		{3262967E-41ED-4D33-A0C5-BB99D8D35162}.Debug|Any CPU.Build.0 = DefaultBuild
+		{3262967E-41ED-4D33-A0C5-BB99D8D35162}.Release|Any CPU.ActiveCfg = DefaultBuild
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6972964C-76CA-47B8-91A4-771019CC3A4E}
+	EndGlobalSection
+EndGlobal
